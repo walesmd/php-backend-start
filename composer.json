@@ -1,0 +1,15 @@
+{
+    "name": "walesmd/php-backend-start",
+    "description": "PHP Backend Start",
+    "version": "0.2.0",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "slim/slim": "2.*",
+        "illuminate/database": "4.*@dev",
+        "ircmaxell/password-compat": "dev-master"
+    },
+    "config": {
+        "vendor-dir": "api/vendor"
+    }
+}
